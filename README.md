@@ -24,7 +24,7 @@ cp .env.example .env.local
 Edit `.env.local`:
 
 ```
-NEXT_PUBLIC_API_URL=http://localhost:5000
+NEXT_PUBLIC_API_URL=http://localhost:5001
 ```
 
 Run it:
