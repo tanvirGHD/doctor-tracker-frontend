@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" fill="none">
+  <circle cx="400" cy="250" r="190" fill="#16504d" opacity=".55"/>
+  <circle cx="400" cy="250" r="130" fill="#18635b" opacity=".6"/>
+  <rect x="120" y="80" width="320" height="230" rx="22" fill="#0f3836" stroke="#269a8b" stroke-width="2"/>
+  <rect x="146" y="106" width="110" height="12" rx="6" fill="#4bb5a6"/>
+  <rect x="146" y="132" width="180" height="8" rx="4" fill="#1a7c71"/>
+  <polyline points="146,262 190,226 232,244 280,184 328,208 376,150 414,172" stroke="#7cd0c2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="376" cy="150" r="7" fill="#e7a02f"/>
+  <rect x="300" y="276" width="140" height="96" rx="16" fill="#0a2a29" stroke="#4bb5a6" stroke-width="2"/>
+  <circle cx="336" cy="312" r="14" fill="#7cd0c2"/>
+  <rect x="360" y="302" width="64" height="8" rx="4" fill="#4bb5a6"/>
+  <rect x="360" y="318" width="44" height="8" rx="4" fill="#1a7c71"/>
+  <rect x="320" y="344" width="104" height="8" rx="4" fill="#16504d"/>
+  <g transform="translate(468 112)"><circle r="30" fill="#e4553f"/><path d="M0-12v24M-12 0h24" stroke="#fff" stroke-width="6" stroke-linecap="round"/></g>
+</svg>
