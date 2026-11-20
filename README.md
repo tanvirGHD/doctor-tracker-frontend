@@ -2,8 +2,8 @@
 
 Next.js client for Doctor Tracker. Backend repository: `doctor-tracker-backend` (Node.js, Express, MongoDB).
 
-- Live app: `<add your Vercel URL>`
-- Live API: `<add your Render URL>`
+- Live app: `<https://doctor-tracker-frontend-five-ashen.vercel.app/>`
+- Live API: `<https://doctor-tracker-backend-6dgz.onrender.com/>`
 - Demo login: `demo@doctortracker.com` / `Demo@12345`
 
 ## Description
